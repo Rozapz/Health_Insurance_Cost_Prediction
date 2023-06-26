@@ -1,17 +1,4 @@
 # Predicting Health Insurance Costs
-
-## Roles, Responsibilities & Project Status
-|  Name  | Week 1 Role | Week 2 Role |  Week 3 Role |
-|:--------:|:--------:|:--------:|:--------:|
-| Massimo | Data Engineer  |  Data Exploration / Tabeleau |  Website  |
-| Roza | Data Scientist  |  Readme Management / Project Description Write Up  |  Presentation  |
-| Mark | Project Manager / GitHub Cleanup  |  Presentation |  Presentation  |
-| Sandy | Readme Management / Project Description Write Up  |  Data Scientist |  Website  |
-
-|    | Data base | Data Exploration | Machine Learning |  Tableau | Website |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Project Status | Completed  | Completed | Completed | Completed | Completed |
-
 ## Background & Rationale
 
 It is well known that how much an individual pays for insurance policies is very case-dependent. One person may be paying a lot more than another due to seemingly unknown factors. In the case of health insurance, various lifestyle situations such as being a smoker, having more than one child or even the region you live in have an impact on how much you are charged. 
@@ -158,3 +145,17 @@ Technologies:
 </p>
 Liberaries that are used : Pandas, numpy, Matplotlib, hvplot, plotly, random, string, pickle, seaborn and sklearn 
 Machin learning models used: PCA, LinearRegression, DecisionTreeRegressor, RandomForestRegressor and Neural Network
+
+
+## Roles, Responsibilities & Project Status
+|  Name  | Week 1 Role | Week 2 Role |  Week 3 Role |
+|:--------:|:--------:|:--------:|:--------:|
+| Massimo | Data Engineer  |  Data Exploration / Tabeleau |  Website  |
+| Roza | Data Scientist  |  Readme Management / Project Description Write Up  |  Presentation  |
+| Mark | Project Manager / GitHub Cleanup  |  Presentation |  Presentation  |
+| Sandy | Readme Management / Project Description Write Up  |  Data Scientist |  Website  |
+
+|    | Data base | Data Exploration | Machine Learning |  Tableau | Website |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Project Status | Completed  | Completed | Completed | Completed | Completed |
+
