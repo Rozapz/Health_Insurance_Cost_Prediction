@@ -17,9 +17,9 @@ There are seven columns and 1338 non-null rows in this dataset, columns include:
 * Age: Age of the primary beneficiary
 * Sex: Male or Female
 * BMI: Body Mass Index of the primary beneficiary
-* Children: Number of children covered by health insurance / number of dependents
+* Children: Number of children covered by health insurance/number of dependents
 * Smoker: Smoking status, either Yes or No 
-* Region: The US resedential area: Northeast, Northwest, Southeast or Southwest
+* Region: The US residential area: Northeast, Northwest, Southeast, or Southwest
 * Charges: Individual medical costs billed by health insurance 
 
 ![Image](Insurance.png)
@@ -27,7 +27,7 @@ There are seven columns and 1338 non-null rows in this dataset, columns include:
 The source for the dataset is https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 ## Database
-To hold our data, we are using a postgreSQL relational database with two tables. Each patient is assigned a unique Identifier which relates our tables. The info table contains information on each patient and the charges table contains their insurance charges as well as their geographical location. The Schema is provided in schema.sql as well as a join statement to bring the tables together in joins_queries.sql.
+To hold our data, we are using a PostgreSQL relational database with two tables. Each patient is assigned a unique Identifier which relates to our tables. The info table contains information on each patient and the charges table contains their insurance charges as well as their geographical location. The Schema is provided in schema.sql as well as a join statement to bring the tables together in joins_queries.sql.
 
 ### ERD
 
@@ -36,7 +36,7 @@ To hold our data, we are using a postgreSQL relational database with two tables.
 ## Data Exploration
 To explore the data, a histogram of each column was made. The results of which can be found below. 
 
-Age Distribution - it looks like that we have data for all ages, which is a good start! 
+Age Distribution - it looks like we have data for all ages, which is a good start! 
 
 ![age distribution](Resources/histo_age.png)
 
