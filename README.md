@@ -40,11 +40,11 @@ Age Distribution - it looks like we have data for all ages, which is a good star
 
 ![age distribution](Resources/histo_age.png)
 
-BMI Distribution - it seems to be fairly normal distributed, which is great for our subsequent analysis. 
+BMI Distribution - it seems to be fairly normally distributed, which is great for our subsequent analysis. 
 
 ![BMI distribution](Resources/histo_BMI.png)
 
-Number of Children Distribution - this is what we expected, but it should be noted that there is not enough information for higher than 4 childeren in the dataset.
+The number of Children Distribution - this is what we expected, but it should be noted that there is not enough information for higher than 4 children in the dataset.
 
 ![childeren distribution](Resources/histo_childeren.png)
 
@@ -52,7 +52,7 @@ Charges Distribution - as can be seen below, it seems that our data is right ske
 
 ![charges distribution](Resources/histo_charges.png)
 
-Next, lets explore more and find out if there is relation between an individuals sex and the charges they pay. It seems that males pay slightly more than females.
+Next, let's explore more and find out if there is a relation between an individual's sex and the charges they pay. It seems that males pay slightly more than females.
 
 ![mean sex](Resources/mean_sex.png)
 
