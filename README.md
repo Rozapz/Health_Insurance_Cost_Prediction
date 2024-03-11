@@ -56,11 +56,11 @@ Next, let's explore more and find out if there is a relation between an individu
 
 ![mean sex](Resources/mean_sex.png)
 
-Next lets take a look at the regions. Simlarly, they are close to each other but we can say that south east region is paying more but at the same time it has a higher BMI so we need to dig deeper
+Next, let's take a look at the regions. Similarly, they are close to each other but we can say that the southeast region is paying more but at the same time it has a higher BMI so we need to dig deeper
 
 ![mean region](Resources/mean_region.png)
 
-Now lets check if the number of children has any impact on our data. It seems that individual with 3 kids has to pay more, but still this is early to predict this.
+Now lets check if the number of children has any impact on our data. It seems that an individual with 3 kids has to pay more, but still, this is too early to predict this.
 
 ![mean childeren](Resources/mean_childeren.png)
 
