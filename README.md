@@ -7,7 +7,7 @@ Therefore, in this project, we set out to create a machine-learning algorithm to
 
 ## Research Questions
 
-There are two main questions we wanted to answer in this endeavour: 
+There are two main questions we wanted to answer in this endeavor: 
 1) What model is most predictive of how much someone is charged for health insurance? 
 2) What factors in this dataset are most influential in how much someone is charged for health insurance? 
 
