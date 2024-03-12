@@ -60,19 +60,19 @@ Next, let's take a look at the regions. Similarly, they are close to each other 
 
 ![mean region](Resources/mean_region.png)
 
-Now lets check if the number of children has any impact on our data. It seems that an individual with 3 kids has to pay more, but still, this is too early to predict this.
+Now let's check if the number of children has any impact on our data. It seems that an individual with 3 kids has to pay more, but still, this is too early to predict this.
 
 ![mean childeren](Resources/mean_childeren.png)
 
-Now lets take a look at the average of charges for each age group. There is an obvious trend here. As can be seen below, the older an individual gets, they incur larger insurance costs.
+Now let's take a look at the average of charges for each age group. There is an obvious trend here. As can be seen below, the older an individual gets, they incur larger the insurance costs.
 
 ![mean age plot](Resources/mean_age_plot.png)
 
-Finally, let's take a look at the effect of being a smoker. The differnece is huge. It seems that being an smoker is bad for both your health and finances! 
+Finally, let's take a look at the effect of being a smoker. The difference is huge. It seems that being a smoker is bad for both your health and finances! 
 
 ![mean smoker](Resources/mean_smoker.png)
 
-Lets go deeper and separate the charges for smokers and non smokers.
+Lets go deeper and separate the charges for smokers and non-smokers.
 
 ![charges smoker vs non-smoker](Resources/charges_smoker_non_smoker.png)
 
